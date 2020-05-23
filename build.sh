@@ -1,3 +1,3 @@
 #!/bin/bash -
-docker build -t geerlingguy/docker-centos7-ansible .
+docker build -t opscharlie/docker-centos7-ansible .
 
